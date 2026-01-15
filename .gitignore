@@ -1,4 +1,12 @@
+target/
+.classpath
+.project
+.settings/
+*.class
+*.jar
 node_modules/
 npm-debug.log
 .DS_Store
 *.env
+.idea/
+*.iml
